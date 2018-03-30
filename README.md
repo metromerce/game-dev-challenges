@@ -69,7 +69,9 @@ Assignment Criteria:
 - Code quality
 - Class structure design
 - Unity object design
-- Rune type: more than 7 points from 14
+- Rune type
+  - Junior: more than 7 points from 14
+  - Senior: more than 11 points from 14
 
 BONUS:
 - Some rough graphics
